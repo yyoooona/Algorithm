@@ -1,10 +1,13 @@
 BufferedWriter StringBuilder보다 메모리 더 작게 쓴다
 
 ## BufferedWriter 사용법
-
+<pre>
+<code>
 BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 bw.append( );
 bw.newLine();
+</code>
+</pre>
 
 ## Comparator정렬 사용법
 
