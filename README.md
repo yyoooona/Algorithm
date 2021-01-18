@@ -17,4 +17,4 @@ ex. SWEA_1208_Flatten_200802
 
 문제푼날짜 사이트이름 문제번호 문제이름[난이도]
 
-ex. 200802 SWEA 1208 Flatten[D3]
+ex. 210802 SWEA 1208 Flatten[D3]
